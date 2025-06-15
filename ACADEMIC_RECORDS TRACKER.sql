@@ -1,0 +1,1 @@
+SELECT * FROM ucu_academic_records.student_performance;
