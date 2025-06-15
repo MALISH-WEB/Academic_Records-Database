@@ -13,7 +13,7 @@ A simple system for storing and managing student academic records.
 
 ## Quick Start
 ```bash
-git clone https://github.com/yourusername/academic_records.git
+git clone https://github.com/malish-wed/academic_records.git
 cd academic_records
 pip install -r requirements.txt
 # Set up your MySQL database and update settings
